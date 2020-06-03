@@ -1,0 +1,22 @@
+{
+  "name": "auto-async-wrap",
+  "version": "1.0.0",
+  "description": "auto async wrapper for expressjs",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib --verbose",
+    "test": "eslint src"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "eslint": "^7.0.0"
+  },
+  "dependencies": {
+    "express-async-wrap": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=8.0"
+  }
+}
