@@ -1,6 +1,6 @@
 {
   "name": "auto-async-wrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "auto async wrapper for expressjs",
   "main": "lib/index.js",
   "scripts": {
@@ -18,5 +18,27 @@
   },
   "engines": {
     "node": ">=8.0"
+  },
+   "keywords": [
+    "express",
+    "expressjs",
+    "router",
+    "await",
+    "async",
+    "auto",
+    "automatic",
+    "middleware",
+    "wrap",
+    "wrapper",
+    "errorhandler",
+    "errorhandling",
+    "error",
+    "handler",
+    "handling"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naver/auto-async-wrap.git"
   }
 }
