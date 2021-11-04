@@ -1,6 +1,6 @@
 {
   "name": "auto-async-wrap",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "auto async wrapper for expressjs",
   "main": "lib/index.js",
   "scripts": {
